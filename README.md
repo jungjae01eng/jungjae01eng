@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=JUNGJAE%20LEE&fontAlignY=40&color=gradient)
 
 # 👋 HELLO!
-My name is Jungjae, and I am a sophomore undergraduate student majoring in **Computer Engineering** with a **Concentration in Machine Learning** at **Boston University**. 
+My name is Jungjae, and I am a *sophomore* undergraduate student majoring in **Computer Engineering** with a **Concentration in Machine Learning** at **Boston University**. 
 My passion lies in the field of **robotics**, but I am equally intrigued by **Autonomous Driving** and **Artificial Intelligence**.
 
 [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:jacob25@bu.edu)](mailto:jacob25@bu.edu)
@@ -9,11 +9,11 @@ My passion lies in the field of **robotics**, but I am equally intrigued by **Au
 
 ---
 
-## Research Experiences
+## Experiences
 My primary focus currently revolves around creating simulations for Soft Robots using [SOFA simulation](https://github.com/sofa-framework/sofa).
-- Boston University Morphable Biorobotics Lab: January 2022 - May 2023
-- Boston University Kolachalama Lab: March 2023 - May 2023
-- Seoul National University Soft Robotics & Bionics Lab: May 2023 - Present
+- **Boston University Morphable Biorobotics Lab:** *2022 - 2023*
+- **Boston University Kolachalama Lab:** *2023 - 2023*
+- **Seoul National University Soft Robotics & Bionics Lab:** *2023 - Present*
 
 ---
 
