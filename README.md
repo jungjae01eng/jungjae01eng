@@ -1,17 +1,26 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=JUNGJAE%20LEE&fontAlignY=40&color=gradient)
 
 # 👋 HELLO!
-My name is Jungjae, and I am an undergraduate student majoring in **Computer Engineering** with a **Concentration in Machine Learning** at **Boston University**.
-My passion lies in the field of **robotics**, but I am equally intrigued by **self-driving vehicles** and **Artificial Intelligence**.
+My name is Jungjae, and I am a sophomore undergraduate student majoring in **Computer Engineering** with a **Concentration in Machine Learning** at **Boston University**. 
+My passion lies in the field of **robotics**, but I am equally intrigued by **Autonomous Driving** and **Artificial Intelligence**.
 
 [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:jacob25@bu.edu)](mailto:jacob25@bu.edu)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jungjae-engineering/)](https://www.linkedin.com/in/jungjae-engineering/)
 
 ---
 
+## Research Experiences
+My primary focus currently revolves around creating simulations for Soft Robots using [SOFA simulation](https://github.com/sofa-framework/sofa).
+- Boston University Morphable Biorobotics Lab: January 2022 - May 2023
+- Boston University Kolachalama Lab: March 2023 - May 2023
+- Seoul National University Soft Robotics & Bionics Lab: May 2023 - Present
+
+---
+
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jungjae01eng&include_all_commits=true&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungjae01eng&hide=jupyter%20notebook&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungjae01eng&hide=jupyter%20notebook&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+**Note:** GitHub Stats only calculates statistics for my personal repositories and does not include my contributions to organization repositories.
 
 ---
 
